@@ -130,7 +130,7 @@
     }
 
     .opcoes__botao:checked~.opcoes__rotulo>.opcoes__item {
-        background: var(--azul-degrade);
+        background: url("../img/Menu\ Aberto.svg");
         color: var(--branco);
     }
 
